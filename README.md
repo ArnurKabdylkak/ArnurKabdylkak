@@ -83,8 +83,8 @@ If you have an exciting project in **cybersecurity, hardware engineering, networ
 ## 📫 How to Reach Me  
 - **GitHub:** [@ArnurKabdylkak](https://github.com/ArnurKabdylkak)  
 - **Email:** kabdylkakarnur@gmail.com  
-- **LinkedIn:** (https://www.linkedin.com/in/%D0%B0%D1%80%D0%BD%D1%83%D1%80-%D0%BA%D0%B0%D0%B1%D0%B4%D1%8B%D0%BB%D0%BA%D0%B0%D0%BA-502b5b317/) 
-- **Telegram:** (https://t.me/arnurkabdylkak)  
+- **LinkedIn:** https://www.linkedin.com/in/%D0%B0%D1%80%D0%BD%D1%83%D1%80-%D0%BA%D0%B0%D0%B1%D0%B4%D1%8B%D0%BB%D0%BA%D0%B0%D0%BA-502b5b317/
+- **Telegram:** https://t.me/arnurkabdylkak  
 
 ---
 

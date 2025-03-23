@@ -17,8 +17,7 @@ I have hands-on experience in **network security, cryptographic protocols, ethic
 
 ## 🔥 Technical Skills  
 
-### 💻 Programming & Development  
-- **Frontend:** JavaScript, TypeScript, React, Next.js  
+### 💻 Programming & Development    
 - **Backend:** Golang, C++, Flask (security testing)  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Scripting & Automation:** Bash, Python (security tools)  

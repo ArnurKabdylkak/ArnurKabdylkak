@@ -1,39 +1,22 @@
 # 👋 Hi, I’m Arnur Kabdylkak  
 
 ## 👀 About Me  
-I am a **cybersecurity researcher, network engineer, backend developer, and hardware engineer** with a strong technical background in **information security, military engineering, hardware design, and software development**. My expertise lies in **penetration testing, secure application development, hardware engineering, and system administration**.  
+I am a **hardware and network engineer, backend developer ** with a strong technical background in **information security, military engineering, hardware design, and software development**. My expertise lies in **penetration testing, secure application development, hardware engineering, and system administration**.  
 
 I have hands-on experience in **network security, cryptographic protocols, ethical hacking**, as well as practical knowledge of **Linux, cloud infrastructure, secure coding practices**, and **hardware design**.  
 
-💡 **Key Areas of Interest:**  
-- **Cybersecurity:** Penetration testing, ethical hacking, OSINT, cryptography  
-- **NetOps:** VPN, firewalls, intrusion detection, secure network architectures  
-- **Web Development:** React, Next.js, Golang backend, REST APIs  
+💡 **Key Areas of Interest:** 
 - **Hardware Engineering:** Assembly, C/C++, STM32, AVR, ARM, FPGA, microcontrollers  
 - **System Administration:** Linux hardening, Windows Server, Bash scripting  
-- **DevOps & Cloud Security:** Docker, Kubernetes, AWS, CI/CD security  
+- **DevOps & Cloud Security:** Docker, Kubernetes, AWS, CI/CD 
+- **Cybersecurity:** Penetration testing, ethical hacking, OSINT,  
+- **NetOps:** VPN, firewalls, intrusion detection, secure network architectures  
+- **Web Development:**Golang backend, REST APIs  
+ 
 
 ---
 
 ## 🔥 Technical Skills  
-
-### 💻 Programming & Development    
-- **Backend:** Golang, C++, Flask (security testing)  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Scripting & Automation:** Bash, Python (security tools)  
-- **Low-Level Programming:** Assembly, C, C++  
-
-### 🔐 Cybersecurity & Ethical Hacking  
-- **Penetration Testing:** Web app security, network penetration testing  
-- **Tools:** Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, Hydra  
-- **Cryptography:** Hashing, encryption (AES, RSA, SHA), digital signatures  
-- **Reverse Engineering:** Disassembling, debugging, malware analysis  
-
-### 🖥️ System Administration & Networking  
-- **Linux Administration:** Ubuntu, Kali Linux, Debian  
-- **Windows Server:** Active Directory security, GPOs, authentication hardening  
-- **Network Security:** Firewall configurations, VPNs, IDS/IPS systems  
-
 ### ⚙️ Hardware Engineering  
 - **Embedded Systems:** STM32, AVR, ARM, microcontroller programming (Arduino, Raspberry Pi)  
 - **FPGA:** VHDL/Verilog programming, hardware design and testing  
@@ -45,6 +28,24 @@ I have hands-on experience in **network security, cryptographic protocols, ethic
 ### ☁️ DevOps & Cloud Security  
 - **Cloud Platforms:** AWS, Docker, Kubernetes  
 - **Infrastructure Security:** IAM policies, container security, CI/CD pipelines  
+
+### 💻 Programming & Development    
+- **Backend:** Golang, C++, Flask (security testing)  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Scripting & Automation:** Bash, Python (security tools)  
+- **Low-Level Programming:** Assembly, C, C++  
+
+### 🔐 Cybersecurity & Ethical Hacking  
+- **Penetration Testing:** Web app security, network penetration testing  
+- **Tools:** Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, Hydra  
+- **Reverse Engineering:** Disassembling, debugging, malware analysis  
+
+### 🖥️ System Administration & Networking  
+- **Linux Administration:** Ubuntu, Kali Linux, Debian  
+- **Windows Server:** Active Directory security, GPOs, authentication hardening  
+- **Network Security:** Firewall configurations, VPNs, IDS/IPS systems  
+
+
 
 ---
 

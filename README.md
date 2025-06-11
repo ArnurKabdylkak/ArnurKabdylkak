@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Arnur Kabdylkak  
 
 ## 👀 About Me  
-I am a **hardware and network engineer, backend developer ** with a strong technical background in **information security, military engineering, hardware design, and software development**. My expertise lies in **penetration testing, secure application development, hardware engineering, and system administration**.  
+I am a **hardware and network engineer, backend developer** with a strong technical background in **information security, military engineering, hardware design, and software development**. My expertise lies in **penetration testing, secure application development, hardware engineering, and system administration**.  
 
 I have hands-on experience in **network security, cryptographic protocols, ethical hacking**, as well as practical knowledge of **Linux, cloud infrastructure, secure coding practices**, and **hardware design**.  
 
@@ -11,7 +11,7 @@ I have hands-on experience in **network security, cryptographic protocols, ethic
 - **DevOps & Cloud Security:** Docker, Kubernetes, AWS, CI/CD 
 - **Cybersecurity:** Penetration testing, ethical hacking, OSINT,  
 - **NetOps:** VPN, firewalls, intrusion detection, secure network architectures  
-- **Web Development:**Golang backend, REST APIs  
+- **Web Development** Golang backend, REST APIs  
  
 
 ---

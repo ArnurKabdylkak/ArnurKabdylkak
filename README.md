@@ -1,2 +1,3 @@
-# 👋 Hi, I’m Arnur Kabdylkak  
+# 👋 Hi, I’m Arnur 
+
 
